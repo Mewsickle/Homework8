@@ -261,12 +261,12 @@
             // 
             this.textBox1.BackColor = System.Drawing.Color.Honeydew;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox1.Location = new System.Drawing.Point(471, 293);
+            this.textBox1.Location = new System.Drawing.Point(468, 293);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(329, 57);
             this.textBox1.TabIndex = 3;
-            this.textBox1.Text = "Ким Алексей\r\nTrueFalse v1.0\r\nВсе авторские права принадлежат моему коту Мите";
+            this.textBox1.Text = "Ким Алексей\r\nTrueFalse v1.0\r\nВсе авторские права принадлежат попугаю Кеше\r\n";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox1.Visible = false;
             // 
