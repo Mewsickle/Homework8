@@ -266,7 +266,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(329, 57);
             this.textBox1.TabIndex = 3;
-            this.textBox1.Text = "Ким Алексей\r\nTrueFalse v1.0\r\nВсе авторские права принадлежат моему коту Мите";
+            this.textBox1.Text = "Ким Алексей\r\nTrueFalse v1.0\r\nВсе авторские права принадлежат попугаю Кеше\r\n";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox1.Visible = false;
             // 
