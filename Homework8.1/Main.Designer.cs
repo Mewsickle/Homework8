@@ -261,7 +261,7 @@
             // 
             this.textBox1.BackColor = System.Drawing.Color.Honeydew;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox1.Location = new System.Drawing.Point(471, 293);
+            this.textBox1.Location = new System.Drawing.Point(468, 293);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(329, 57);
